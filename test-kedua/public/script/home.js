@@ -20,7 +20,7 @@ new Vue({
 		}
 	},
 
-	beforMount(){
+	beforeMount(){
 		this.getIP()
 	},
 
