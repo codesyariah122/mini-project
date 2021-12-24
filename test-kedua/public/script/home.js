@@ -33,7 +33,7 @@ new Vue({
 		getHeroData(){
 			const hero = {
 				'title': 'Dana Bagus Indonesia | Mini::Test',
-				'desc': 'Widget cuaca kota Jakarta untuk 7 hari kedepan.'
+				'desc': `Widget cuaca  untuk 7 hari kedepan.`
 			}
 
 			this.heros.push(hero)

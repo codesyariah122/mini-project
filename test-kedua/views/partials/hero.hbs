@@ -12,7 +12,9 @@
 				<pre>
 					{{config.apiKey}}
 				</pre> --}}
-
+				<blockquote cclass="blockquote-footer">
+					Klik tombol di bawah  untuk melihat prediksi cuaca kota \{{city}} 7 hari kedepan
+				</blockquote>
 				<button @click="dailyWeather(coordinates)" class="btn btn-primary rounded-pill">
 					
 					<div v-if="loading_daily">
