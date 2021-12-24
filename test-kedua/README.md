@@ -31,4 +31,7 @@ yarn start
 ```  
 
 - open web browser (chrome, firefox)  
-- access url :  http://localhost:5000/
+- access url :  http://localhost:5000/  
+
+
+for  trial  :  https://mini-test-dana-bagus-indonesia.herokuapp.com/https://mini-test-dana-bagus-indonesia.herokuapp.com/
